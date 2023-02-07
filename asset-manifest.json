@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChatGpt-3-Landing-Page/static/css/main.b014198b.css",
+    "main.js": "/ChatGpt-3-Landing-Page/static/js/main.f95dc9cc.js",
+    "static/media/ai.png": "/ChatGpt-3-Landing-Page/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/ChatGpt-3-Landing-Page/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/ChatGpt-3-Landing-Page/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/ChatGpt-3-Landing-Page/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/ChatGpt-3-Landing-Page/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/ChatGpt-3-Landing-Page/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/ChatGpt-3-Landing-Page/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/ChatGpt-3-Landing-Page/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/ChatGpt-3-Landing-Page/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/ChatGpt-3-Landing-Page/index.html",
+    "main.b014198b.css.map": "/ChatGpt-3-Landing-Page/static/css/main.b014198b.css.map",
+    "main.f95dc9cc.js.map": "/ChatGpt-3-Landing-Page/static/js/main.f95dc9cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b014198b.css",
+    "static/js/main.f95dc9cc.js"
+  ]
+}
