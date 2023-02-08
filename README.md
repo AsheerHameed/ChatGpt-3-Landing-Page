@@ -1,6 +1,6 @@
 # ChatGpt-3-Landing-Page
 
-<a href="https://asheerhameed.github.io/ChatGpt-3-Landing-Page/"><h2>Live demo</h2></a>
+<h2><a href="https://asheerhameed.github.io/ChatGpt-3-Landing-Page/">Live Demo</a></h2>
 
 <h3>Resources used</h3>
 <ul>
